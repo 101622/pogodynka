@@ -98,7 +98,5 @@ ENTRYPOINT ["/weatherapp"]
 ### Sprawdzenie czy manifest zawiera deklaracje dwóch platform sprzętowych
 ![Sprawdzenie czy manifest zawiera deklaracje dwóch platform sprzętowych](9.png)
 
-## Został utworzony oraz został wykorzystany obraz z danymi cache
-
 ## Czy mam dodać kwiatki?
 ![Miejsce na kwiatki]()
